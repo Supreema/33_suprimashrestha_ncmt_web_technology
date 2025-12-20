@@ -1,1 +1,62 @@
-nkhcdkhgXKX
+WEBTECHNOLOGY
+Assignment 1
+Student Name:Suprima Shrestha                      	Date:2025/12/18
+Roll/ID No:33                           Program:BIT
+
+CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
+ 
+Group A: Short Questions (2 Marks)
+1.	Define the term “Protocol” in the context of the Internet.
+Ans: In the context of the Internet, Protocol is a set of rules that helps devices to communicate and exchange data with each other.
+
+2.	What is the primary difference between a Web Browser and a Search Engine?
+Ans: Web Browser is a software application that helps to access and view websites, while a search engine is an interactive tool which helps people to locate information available via the World Wide Web. Google chrome, Safari, Firefox are some example of web browser. Google, Yahoo, Bing are some example of search engine. 
+
+3.	Define the World Wide Web (WWW).
+Ans: World Wide Web is a huge collection of pages of information linked to each other around one globe. Every page is combination of text, pictures, audio, video, animation and hyperlink.
+
+4.	Distinguish between a static web page and a dynamic web page.
+Ans: Static web page shows the same content each time they are viewed. Dynamic pages have content that can change each time they are accessed.
+
+Group B: Long Questions (4 Marks)
+5.	Explain the client-server architecture of the web with a neat diagram.
+Ans: Client-server architecture is a fundamental concept in system design. Clients are the devices/users that requests for the services, data and information while server the serves client with the services and information requested by the client. Data are kept secure in the server. If the server fails, the whole system crashes.
+ 		
+                            Client(Brower)  ---->   Server(Web app) ---->   Client(Brower)
+                                              ^                       ^                  
+                                              |                       |                   
+                                        http request              http response
+
+6.	Describe the functions of the following Internet services: Email, FTP, and VoIP.
+Ans: The functions of the following Internet services are as follows:
+i.	Email(Electronic mail)
+•	Sends and receives digital messages instantly.
+•	Offers fast and cost-effective communication.
+•	Requires an email address to communicate.
+•	Allows sharing text, images and documents.
+ii.	FTP(File Transfer Protocol)
+•	Used to upload and download files between computers over the internet.
+•	Can handle large files effectively.
+•	Provides a standardized way to move data between different operating systems.
+•	Requires username and password for secure access.
+iii.	VoIP(Voice over Internet Protocol)
+•	Used to make voice and video calls over the internet.
+•	Converts your voice into digital signals and sends them over the Internet.
+•	Works on smartphones, computers, tablets and dedicated VoIP phones.
+
+7.	“The Internet is a network of networks.” Elaborate on this statement explaining how packet switching works.
+Ans: The Internet is a network of networks because it links multiple autonomous and heterogeneous networks into one large communication framework. It connects many small networks like home, school, company, etc. together allowing devices to communicate with each other all over the world. The following are the statements, how packet switching works:
+•	When data is sent over the Internet, the data is broken into small pieces called packets.
+•	Each packet contains part of the data and destination address.
+•	Those packets travels towards the destination through different paths independently.
+•	And at the final destination, all the packets are reassembled to form the original message.
+
+Group C: Scenario-Based Questions (5 Marks)
+8.	A startup company wants to host a website that displays the same information to all visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
+Ans: I would not agree with using a dynamic website because the company’s website displays the same information to all visitors and aims to keep maintenance costs very low. In this case, a static website is a better option since it is simpler to develop, cheaper to host, and easier to maintain. Static websites also load faster and are more secure because they do not rely on databases or server-side processing. A dynamic website is only necessary when frequent updates, user interaction or personalized content is required, which is not needed for this startup.
+
+9.	A user types www.google.com into their browser, but the browser displays a “Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
+Ans: The problem is DNS (Domain Name System) failure. The Domain Name System (DNS) is a system that translates human-readable domain names (like www.google.com) into IP addresses (like 142.250.64.78) that computers use to identify each other on the network. When the user types www.google.com, the browser must use DNS to translate the domain name into its IP address. Since the DNS system failed or was not reachable, the browser did not find the server and showed “Server Not Found” error. However, when the user directly entered the IP address (142.250.190.46), the website loads because DNS is no longer needed. The underlying technology that failed is the DNS name resolution process, which converts human-readable domain names into machine-readable IP addresses.
+
+10.	A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network type (Intranet, Extranet, or Internet) they should implement and why?
+Ans: The Corporation should implement an Extranet. An Extranet is a private network that allows authorized external users (like customers, vendors, or partners) to access part of an organization’s internal network in a secure way. Unlike the Internet, which is open to everyone. An Extranet provides controlled access using security measures like authentication and permissions. This makes it ideal for securely sharing inventory data with specific suppliers without exposing it publicly allowing secure communication beyond the organization’s firewall. It improves efficiency, coordination, and transparency between businesses and their external stakeholders.
