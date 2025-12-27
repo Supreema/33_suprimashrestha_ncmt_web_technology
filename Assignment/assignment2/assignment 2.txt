@@ -1,0 +1,60 @@
+CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
+Group A: Short Questions (2 Marks)
+1.	Define the term “Sitemap” in the planning phase.
+Ans: In the planning phase, a sitemap is a visual blueprint that lays out the hierarchical structure and organization of all the website's pages and content.
+
+2.	What is the purpose of the “Launch” phase in web development?
+Ans: The purpose of the “Launch” phase in web development is to make the website live and accessible to users on the internet after testing and final approval.
+
+3.	Why is “Documentation” important in the development lifecycle?
+Ans: Documentation is important in the development lifecycle for clarity, consistency, and continuity, supporting team collaboration, and serving as a reference for future work, ultimately boosting quality and efficiency by capturing knowledge and reducing misunderstandings between developers, stakeholders, and users.
+
+4.	Differentiate between Front-end and Back-end development.
+Ans: Front-end development handles the website’s design and user interface, using HTML, CSS, and JavaScript. Back-end development manages the server, database, and application logic, using technologies like PHP, Python, or Node.js.
+
+Group B: Long Questions (4 Marks)
+5.	”Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase.
+Ans: Planning is the most critical phase of web development because it sets the foundation for the entire project, ensuring clear goals, structure, and strategy before design or coding begins.
+The key activities performed during the planning phase are as follows:
+•	Defining goals and objectives
+•	Identifying the target audience
+•	Creating a sitemap
+•	Planning content and media
+•	Selecting technology and tools
+•	Estimating timeline and budget
+
+6.	Explain the iterative nature of the Maintenance phase.	Why is a website never truly ”finished”?
+Ans: The Maintenance phase is an ongoing process in web development where a website is continuously updated, improved, and fixed to ensure it works properly. This includes correcting bugs, updating security, improving performance, and adding new features or content as needed.
+A website is never truly “finished” because content changes over time, technology and security standards evolve, and user needs and expectations shift. Regular maintenance ensures the website remains functional, secure, and user-friendly, keeping it relevant and effective in serving its purpose.
+
+7.	Describe the process of “Information Gathering.” Why is understanding the target audience crucial during this step?
+Ans: Information Gathering is the first step in web development, where the team collects all important details about the website, including its purpose, goals, content, features, functionality, and technical requirements. This step lays the foundation for effective planning and design.
+Understanding the target audience is crucial because it helps the team create a website that meets users’ needs and preferences. It guides decisions on layout, design, content, and features, making the site easy to use, engaging, and relevant. By knowing the audience, developers can ensure the website effectively achieves its goals and provides a positive experience for visitors.
+
+Group C: Scenario-Based Questions (5 Marks)
+8.	You are the project manager for a new e-commerce site. The client wants to skip the “Testing” phase to save money and launch early. Write a persuasive argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
+Ans: If I am the manager, I would say, skipping the Testing phase to save time or money can lead to serious problems for the website and the business.
+•	Security: Without testing, the site may have vulnerabilities that hackers can exploit, putting customer data and payments at risk.
+•	Functionality: Important features like product search, shopping cart, and checkout may not work correctly, frustrating users and causing loss on sales.
+•	Compatibility: Users access the site from different devices and browsers. Skipping testing may result in a website that doesn’t display or function properly for many visitors.
+Skipping testing can lead to security breaches, unhappy customers, lost revenue, and damage to the company’s reputation. Testing ensures the website is safe, reliable, and user-friendly before it goes live.
+
+9.	A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
+Ans: What went wrong:
+•	The developer began coding without proper planning, skipping the creation of a sitemap or design prototype.
+•	Without a visual plan, the client could not review or approve the layout early, leading to rejection midway.
+How it should have been handled:
+•	First, create a sitemap to outline the website structure and a design prototype to show the layout and appearance.
+•	Present the prototype to the client for feedback and approval before coding begins.
+•	Follow a structured development process: Plan -> Design -> Client Review -> Coding -> Testing -> Launch.
+By planning and getting early client approval, developers can avoid misunderstandings, save time, and ensure the website meets expectations.
+
+10.	A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development lifecycle was neglected? Explain the activities involved in this phase.
+Ans: The Maintenance phase of the development lifecycle was neglected. The Maintenance phase is an ongoing part of web development that keeps the website up-to-date, secure, and functional. Here, outdated exam schedules caused students to stop visiting because the information was no longer useful.
+The activities involved in the Maintenance phase are as follows:
+•	Updating content – Adding new information, correcting errors, and removing outdated data.
+•	Fixing bugs and broken links – Ensuring all features and pages work properly.
+•	Security updates – Protecting the website from cyber threats and vulnerabilities.
+•	Performance improvements – Optimizing loading speed, usability, and accessibility.
+•	Monitoring and feedback – Adjusting the website based on user behavior and suggestions.
+Regular maintenance keeps the website relevant, reliable, and user-friendly, ensuring visitors continue to use it over time.
