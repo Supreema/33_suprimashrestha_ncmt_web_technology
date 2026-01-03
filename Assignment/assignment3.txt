@@ -1,0 +1,98 @@
+CHAPTER 3: WEBSITE STRUCTURE DESIGN
+Group A: Short Questions (2 Marks)
+1.	Define Information Architecture (IA).
+Ans: Information Architecture (IA) is the practice of organizing, structuring and labeling information in a clear way so that users can find, understand and use information easily.
+
+2.	What is a “Wireframe”?
+Ans: A wireframe is a basic, blueprint-style visual guide or skeleton for a website, app or digital product, showing its structure, layout and functionality without detailed visual design like colors or images.
+
+3.	Explain the concept of “Cognitive Friction” in web design.
+Ans: Cognitive friction is the mental effort users need to understand or use a website. If a site is confusing, cognitive friction is high; if it is clear and easy to use, cognitive friction is low.
+
+4.	Why should URL slugs use hyphens instead of underscores?
+Ans: URL slugs use hyphens instead of underscores because hyphens separate words clearly, making URLs easier to read and understand for users and search engines.
+
+Group B: Long Questions (4 Marks)
+5.	Compare and contrast Hierarchical (Tree) structure and Linear (Sequential) structure. Give an example of when to use each.
+Ans: Compare and Contrast of Hierarchical (Tree) Structure	Linear (Sequential) Structure:
+•	In hierarchical structure, Information is organized in a tree-like structure with main categories and subcategories while in linear structure, Information is arranged in a step-by-step sequence.
+•	In hierarchical structure, Easy to navigate large amounts of information; users can jump to desired sections while in linear structure, Simple to follow; guides users through a process
+•	In hierarchical structure, Can be confusing if there are too many levels while in linear structure, Not flexible; users can’t skip steps easily
+•	In hierarchical structure example, Website: Home → Products → Electronics → Smartphones while in linear structure example, online checkout: Cart → Shipping → Payment → Confirmation.
+
+6.	Explain the “Three-Click Rule” and its significance in User Experience (UX) design.
+Ans: The Three-Click Rule is a UX design principle that states users should be able to find any information on a website in three clicks or less. The idea is that the fewer clicks a user needs, the easier and faster it is to navigate the site.
+Significance:
+•	Helps make websites simple and user-friendly.
+•	Reduces frustration and confusion for users.
+•	Improves user satisfaction, keeping visitors engaged longer.
+•	Encourages designers to create clear navigation and well-organized content.
+
+7.	“Plan before you do.” Explain how tools like Card Sorting and Flowcharts help in planning website’s structure.
+Ans: “Plan before you do” means that before designing a website, you should organize its content and structure to make it easy for users to navigate. Planning helps avoid confusion, saves time, and creates a better user experience.
+Tools:
+a)	Card Sorting: 
+•	Write content or features on cards and group them logically. 
+•	Helps decide categories and labels. 
+•	Example: Grouping products into Electronics, Clothing, and Accessories. 
+b)	Flowcharts: 
+•	Diagrams that show how users move through the website. 
+•	Helps plan navigation and page order. 
+•	Example: Home → Product Page → Cart → Checkout → Confirmation.
+
+Group C: Scenario-Based Questions (5 Marks)
+8.	You are designing a website for a University. It has hundreds of pages (Admissions, Departments, Alumni, News). Which structural model would you choose? Draw a rough diagram and justify your choice.
+Ans: For a university website with many pages like Admissions, Departments, Alumni, and News, the best structure to use is a Hierarchical (Tree) Structure.
+Why this structure:
+•	It organizes the website into main categories and subcategories, making it easier for users to find information quickly.
+•	Users can start from a broad section (like Departments) and navigate to more specific pages (like Computer Science or Biology).
+•	It works well for large websites with hundreds of pages because it keeps everything clear and organized.
+•	It also makes the website easier to update and maintain when new content is added.
+
+University Website
+|
+|---Admissions
+|       |---Undergraduate
+|       |--- Graduate
+|       |---International
+|
+|---Departments
+|        |---Science
+|        |---Arts
+|
+|--- Alumni
+|        |---Events
+|        |---Stories
+|
+|--- News
+         |--- Campus News
+         |--- Research Updates
+
+9.	A user visits a website but leaves within 10 seconds because they cannot find the navigation menu, which is hidden behind a small icon on a desktop screen. Analyze this design failure using the “KISS” (Keep It Simple) principle.
+Ans: This design failure can be analyzed using the KISS (Keep It Simple, Stupid) principle, which emphasizes simplicity and ease of use.
+Analysis:
+•	The navigation menu is hidden behind a small icon, making it difficult for users to find.
+•	Users don’t have to think or search to navigate; the website should be clear and straightforward.
+•	By hiding essential navigation, the design breaks the KISS principle, causing frustration and high bounce rates.
+How it could be improved:
+•	Display the navigation menu clearly on the screen, especially on desktops.
+•	Use simple, visible menus instead of hiding them behind icons.
+•	Make it easy for users to find what they need immediately, reducing confusion.
+Conclusion:
+The website failed because it was not simple or intuitive. Following the KISS principle, keeping navigation visible and straightforward, would have prevented users from leaving quickly.
+
+10.	An e-commerce website has a URL structure like www.shop.com/prod?id=55&cat=9. Explain why this is bad for both users and Search Engines (SEO), and propose a better structure using Page Slug.
+Ans: The URL www.shop.com/prod?id=55&cat=9 is bad for both users and SEO for several reasons:
+Problems:
+•	Hard to read: Users can’t easily understand what the page is about just by looking at the URL.
+•	Not memorable: It’s difficult to remember or share URLs like this.
+•	Bad for SEO: Search engines prefer URLs with keywords. A URL with numbers and symbols does not help rankings.
+Better approach using Page Slugs:
+•	Use descriptive words in the URL that reflect the page content.
+Example:
+www.shop.com/electronics/smartphone-samsung-galaxy-s23
+Benefits of this structure:
+•	Easy for users to read and remember.
+•	Improves SEO because search engines can understand the content from the keywords in the URL.
+•	Clean and shareable URL, which looks professional.
+In short, using page slugs makes URLs user-friendly, SEO-friendly, and easier to navigate.
